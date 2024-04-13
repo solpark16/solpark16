@@ -1,6 +1,7 @@
 # Sol Park
 
 - 🌱 I’m currently learning `Frontend Development`
+- 🎓 Digital Media Design at `Kaywon University of Art & Design` (2018.03 ~ 2022.02)
 
 <!--
 **solpark16/solpark16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
