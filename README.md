@@ -1,4 +1,4 @@
-# Sol Park
+# 👨‍💻 Sol Park
 
 - 🌱 I’m currently learning `Frontend Development`
 - 🎓 Digital Media Design at `Kaywon University of Art & Design` (2018.03 ~ 2022.02)
