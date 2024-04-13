@@ -1,4 +1,4 @@
-### Sol Park
+# Sol Park
 
 - 🌱 I’m currently learning `Frontend Development`
 
