@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sol Park
+
+- 🌱 I’m currently learning `Frontend Development`
 
 <!--
 **solpark16/solpark16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
