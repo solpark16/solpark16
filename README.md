@@ -1,4 +1,4 @@
-# 👨‍💻 박솔 (Sol Park)
+# 🧑🏻‍💻 박솔 (Sol Park)
 
 🌱 I’m currently learning `Frontend Development`
 
